@@ -24,7 +24,7 @@
 
 ### Stopping and starting
 
-#### CAS Server
+#### CAS OAuth Server
 
 This should be run in its own terminal
 
